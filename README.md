@@ -1,16 +1,116 @@
-# React + Vite
+# 📝 Notes App (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Notes App** built while learning **React.js**. This project was created to understand **Two-Way Data Binding**, **State Management**, **Event Handling**, and **Dynamic Rendering** using React.
 
-Currently, two official plugins are available:
+Users can create and delete notes instantly through an interactive and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📝 Create Notes
+- 🗑️ Delete Notes
+- ⚛️ Built with React.js
+- 🔄 Two-Way Data Binding
+- 📦 Dynamic Note Rendering
+- ⚡ Instant UI Updates
+- 📱 Responsive Design
+- 🎨 Simple & Clean User Interface
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠️ Tech Stack
+
+## Frontend
+
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Talwind CSS
+
+## Development Tools
+
+- Vite
+- VS Code
+- Git
+- GitHub
+
+---
+
+# 🎯 React Concepts Practiced
+
+- Functional Components
+- JSX
+- React State (`useState`)
+- Two-Way Data Binding
+- Controlled Components
+- Event Handling
+- Props
+- Conditional Rendering
+- List Rendering using `map()`
+- Component Reusability
+
+---
+
+# 💡 What I Learned
+
+While building this project, I learned:
+
+- Creating reusable React components
+- Understanding Two-Way Data Binding
+- Managing state with `useState`
+- Handling user input with controlled components
+- Passing data using Props
+- Rendering dynamic lists using `map()`
+- Handling button click events
+- Updating the UI without page refresh
+- Organizing React project structure
+- Git & GitHub workflow
+
+---
+
+# 📸 Project Highlights
+
+- ⚛️ React.js Project
+- 🔄 Two-Way Data Binding
+- 📝 Dynamic Notes
+- 📦 Component-Based Architecture
+- 📱 Responsive Layout
+- 🎨 Beginner-Friendly UI
+
+---
+
+# 👨‍💻 Author
+
+**Mohnish Koshti**
+
+---
+
+# ⭐ Support
+
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
+
+It motivates me to keep learning React.js and building more real-world projects.
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+# 🙏 Acknowledgements
+
+- React.js
+- Vite
+- JavaScript (ES6)
+- MDN Web Docs
+- GitHub
+
+---
+
+## ❤️ Thank You for Visiting!
+
+**Happy Coding! 🚀**
